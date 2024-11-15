@@ -22,6 +22,10 @@
 ![Heroku](https://img.shields.io/badge/-Heroku-000?&logo=Heroku)
 ![Solidity](https://img.shields.io/badge/-Solidity-000?&logo=Solidity)
 
+| Byte and Repo Order | Repo Order |
+| ----- | ----- |
+| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnthonyFrancis&size_weight=0.5&count_weight=0.5&layout=compact&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&langs_count=6&hide=html,css,javascript" alt="AntonioBerna's GitHub Top Languages"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioBerna&size_weight=0&count_weight=1&layout=compact&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&langs_count=6&hide=html,css,javascript" alt="AntonioBerna's GitHub Top Languages"/> |
+
 ## 💻 What am I currently up to?
 
 - Developing a **Solana Sniper Bot** with advanced trading strategies.
