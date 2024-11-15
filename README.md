@@ -1,37 +1,39 @@
 <!--
-**latchjack/latchjack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+**AnthonyFrancis/AnthonyFrancis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 <!-- [![Social banner for latch](./github_header.svg)](www.latch.dev) -->
 
-# Hey! I'm Latch 👋🏽
+# Hey! I'm Anthony 👋🏽
 
-- I'm a Software Engineer based in London, UK.
-- I love solving problems.
-- I currently build software for use in the CyberSecurity industry.
-- I'm an Animation graduate, who's very passionate about great design.
-- I studied at [General Assembly](https://generalassemb.ly/).
+- I'm a Product Manager with Software Engineering skills, based in London, UK.
+- I have a background in Product Management, with experience building software and leading teams.
+- I am a full-stack Ruby on Rails developer, passionate about creating robust, scalable web applications.
+- I'm skilled in developing end-to-end solutions, from front-end interfaces to back-end data structures.
+- I currently focus on blockchain and cryptocurrency projects, with expertise in Solana and Ethereum ecosystems.
+- I am exploring job opportunities in Product Management and Scrum Master roles internationally, especially in the USA and Europe.
+- I am an Animation graduate with a strong passion for great design and user experience.
 
 ## 🔨 Technologies and Tools I use
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Redux](https://img.shields.io/badge/-Redux-000?&logo=Redux)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
-<!-- ![Python](https://img.shields.io/badge/-Python-000?&logo=Python) -->
+![Ruby on Rails](https://img.shields.io/badge/-Ruby_on_Rails-000?&logo=Ruby-on-Rails)
+![Solana](https://img.shields.io/badge/-Solana-000?&logo=Solana)
+![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS)
 
 ## 💻 What am I currently up to?
 
-- Sharpening my TypeScript and React skills.
-- Learning about design patterns.
+- Developing a **Solana Sniper Bot** with advanced trading strategies.
+- Sharpening my Ruby on Rails skills, building scalable web applications, and improving performance optimizations.
+- Preparing for Product Management roles abroad, focusing on maximizing impact and efficiency.
+- Refining my skills in blockchain technologies and project management methodologies.
 
 ## 😄 When I'm not coding you can find me...
 
-- Cooking
-- Reading
-- Watching Anime
-- Playing Video Games
+- Experimenting with new recipes in the kitchen
+- Reading about crypto trends or brushing up on tech innovations
+- Watching Anime and diving into its captivating stories
+- Playing video games and analyzing game design mechanics
 
 <br>
 
@@ -41,12 +43,3 @@ You can also find me via...
 [![Codewars](https://img.shields.io/badge/-Codewars-000?&logo=Codewars)](https://www.codewars.com/users/latchjack)
 
 <sub>"Don't comment bad code - rewrite it" - Brian Kernighan</sub>
-
-<!-- - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
