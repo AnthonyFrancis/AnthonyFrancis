@@ -1,7 +1,7 @@
 <!--
 **AnthonyFrancis/AnthonyFrancis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-<!-- [![Social banner for latch](./github_header.svg)](www.latch.dev) -->
+<!-- [![Social banner for AnthonyFrancis](./github_header.svg)](www.AnthonyFrancis.dev) -->
 
 # Hey! I'm Anthony 👋🏽
 
@@ -10,8 +10,7 @@
 - I am a full-stack Ruby on Rails developer, passionate about creating robust, scalable web applications.
 - I'm skilled in developing end-to-end solutions, from front-end interfaces to back-end data structures.
 - I currently focus on blockchain and cryptocurrency projects, with expertise in Solana and Ethereum ecosystems.
-- I am exploring job opportunities in Product Management and Scrum Master roles internationally, especially in the USA and Europe.
-- I am an Animation graduate with a strong passion for great design and user experience.
+- I am exploring job opportunities in Product Management roles internationally, especially in the USA and Europe.
 
 ## 🔨 Technologies and Tools I use
 
@@ -20,6 +19,8 @@
 ![Ruby on Rails](https://img.shields.io/badge/-Ruby_on_Rails-000?&logo=Ruby-on-Rails)
 ![Solana](https://img.shields.io/badge/-Solana-000?&logo=Solana)
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS)
+![Heroku](https://img.shields.io/badge/-Heroku-000?&logo=Heroku)
+![Solidity](https://img.shields.io/badge/-Solidity-000?&logo=Solidity)
 
 ## 💻 What am I currently up to?
 
@@ -39,7 +40,6 @@
 
 You can also find me via...
 
-[![Add me on LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn)](https://www.linkedin.com/in/latchjack)
-[![Codewars](https://img.shields.io/badge/-Codewars-000?&logo=Codewars)](https://www.codewars.com/users/latchjack)
+[![Add me on LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn)](https://www.linkedin.com/in/anthonynfrancis/)
 
 <sub>"Don't comment bad code - rewrite it" - Brian Kernighan</sub>
