@@ -3,7 +3,7 @@
 
 <!-- [![Social banner for AnthonyFrancis](./github_header.svg)](www.AnthonyFrancis.dev) -->
 
-# Hey! I'm Anthony 👋🏽
+# Hey! I'm Anthony Francis 👋🏽
 
 - I'm a Product Manager with Software Engineering skills, based in London, UK.
 - I have a background in Product Management, with experience building software and leading teams.
