@@ -33,7 +33,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnthonyFrancis&hide_progress=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnthonyFrancis&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnthonyFrancis&layout=pie&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&langs_count=6&hide=html,css,javascrip)](https://github.com/anuraghazra/github-readme-stats)
 
 | Byte Order |
 | ----- |
