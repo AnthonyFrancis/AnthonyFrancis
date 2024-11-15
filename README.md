@@ -22,7 +22,7 @@
 ![Heroku](https://img.shields.io/badge/-Heroku-000?&logo=Heroku)
 ![Solidity](https://img.shields.io/badge/-Solidity-000?&logo=Solidity)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnthonyFrancis&layout=donut-vertical&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## 💻 What am I currently up to?
